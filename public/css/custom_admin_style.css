@@ -1,0 +1,11 @@
+.dataTables_wrapper {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.badge-permissions {
+    height: 20px;
+    margin-top: 10px;
+    font-size: 13px;
+    margin-right: 5px;
+}
