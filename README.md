@@ -39,6 +39,9 @@ admin : http://localhost:8000/admin/login    admin@gmail.com password
 user : http://localhost:8000/login    user@gmail.com password
 
 ```
+
+## Admin Dashboard 
+![N|Solid](https://i.ibb.co/m6xnmZ9/Screenshot-from-2020-07-31-14-12-45.png)
 ## Security Vulnerabilities
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Ahmed Salah via [ahmed.salah.fcih@gmail.com](mailto:ahmed.salah.fcih@gmail.com). All security vulnerabilities will be promptly addressed.
