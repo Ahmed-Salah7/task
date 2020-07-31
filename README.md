@@ -34,6 +34,9 @@ npm install
 
 npm run dev
 
+php artisan serve
+admin : http://localhost:8000/admin/login    admin@gmail.com password
+admin : http://localhost:8000/login    user@gmail.com password
 
 ```
 ## Security Vulnerabilities
